@@ -1,0 +1,21 @@
+{
+  "name": "pc-lopal",
+  "version": "1.0.0",
+  "description": "Repositório para armazenar os códigos da aula.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amcaamila/pc-lopal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/amcaamila/pc-lopal/issues"
+  },
+  "homepage": "https://github.com/amcaamila/pc-lopal#readme"
+}
